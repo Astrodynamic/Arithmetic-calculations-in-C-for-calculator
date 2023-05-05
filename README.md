@@ -30,7 +30,7 @@ To contribute to this library, please follow the steps below:
 
 ## License
 
-This library is licensed under the MIT License.
+This library is licensed under the [MIT LICENSE](LICENSE).
 
 ## Example Build and Usage
 
